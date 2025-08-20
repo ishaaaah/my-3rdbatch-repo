@@ -1,0 +1,203 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+body {
+    background: #fff8f3;
+    color: #333;
+    font-family: 'Poppins', sans-serif
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 8%;
+}
+
+header .ab {
+    font-size: 45px;
+    font-weight: 700
+}
+
+header .ab span {
+    color: #f75c00
+}
+
+header nav a {
+    margin-left: 30px;
+    text-decoration: none;
+    color: #333
+}
+
+header nav .btn {
+    background: #f75c00;
+    color: #fff;
+    padding: 8px 20px;
+    border-radius: 6px;
+    font-weight: 600
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.button-color {
+    background-color: #FD6E0A;
+    color: #ffffff;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 18px 35px;
+}
+
+.button-colors {
+    border: 1px solid #FD6E0A;
+    background-color: white;
+    color: #FD6E0A;
+    border-radius: 5px;
+
+    font-size: 20px;
+    font-weight: bold;
+    padding: 18px 35px;
+}
+
+
+.abc {
+    display: flex;
+}
+
+.dev {
+    transform: rotate(90 deg);
+}
+
+.mary {
+    margin-left: 200px;
+    font-weight: 800;
+    font-size: 45px;
+}
+
+.Mary-description {
+    margin-left: 200px;
+}
+
+.greetings {
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.para {
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.hardy {
+    font-weight: bold;
+    font-size: 85px;
+}
+
+.bg {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+
+.pic {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+
+.likhaa {
+    margin-left: 200;
+    font-weight: 800;
+    font-size: 45px;
+}
+
+.box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.para {
+    opacity: 0.6;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.about-me {
+    text-align: center;
+    padding: 270px;
+    background-color: #f3dccc;
+    margin: 100px 300px 300px 300px;
+
+}
+
+.what {
+    text-align: center;
+}
+
+.whatido {
+
+    padding: 270px;
+    margin: 100px 300px 300px 300px;
+
+}
+
+.lang {
+    display: flex;
+    font-size: small;
+
+}
+
+.a {
+    justify-content: space-around;
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+}
+
+.summery {
+    text-align: center;
+}
+
+.whole {
+    display: flex;
+    margin: 50px;
+    padding: 50px
+}
+
+.education {
+    margin: 10px;
+    padding: 10px;
+}
+
+.educations {
+    margin: 10px;
+    padding: 10px;
+}
+
+.paraaa {
+    opacity: 0.6;
+    font-size: 17px;
+}
+
+.button-colorss {
+    background-color: #FD6E0A;
+    color: #ffffff;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 18px 35px;
+
+}
+
+.CV {
+    align-items: center;
+}
